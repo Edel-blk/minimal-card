@@ -1,0 +1,60 @@
+body {
+  margin: 0px auto;
+  width: 50ch;
+  font-family: "Sora", sans-serif;
+  background-color: #FAFAF9;
+}
+
+img {
+  width: 350px;
+  border-radius: 10px;
+}
+
+.card {
+  width: 350px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 17px 9px 22px #ffffff2b, 3px 3px 7px #cccdcf;
+  margin-top: 40px;
+  border: 1px solid #FAFAF9;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.tag {
+  color: #883AE1;
+  background-color: #883ae147;
+  font-weight: bold;
+  width: 70px;
+  border-radius: 25px;
+  text-align: center;
+  padding: 5px;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.description {
+  color: #6C727F;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.author {
+  color: #6C727F;
+  font-size: 12px;
+  margin-top: 15px;
+}
+
+.divider {
+  margin-top: 15px;
+  border-bottom: 1px solid #6c727f69;
+}
